@@ -1,3 +1,3 @@
 module.exports = {
-    frontend_baseurl: 'https://user-dash.herokuapp.com/'
+    frontend_baseurl: 'https://user-dash.firebaseapp.com/'
 }
